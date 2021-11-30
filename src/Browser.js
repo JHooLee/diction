@@ -3,7 +3,7 @@ import App from './App.js'
 
 function Browser(){
     return(
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <App></App>
         </BrowserRouter>
     )
