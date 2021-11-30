@@ -1,0 +1,25 @@
+.sidebar{
+    width: 100%;
+    height: 5%;
+    /* border: 1px solid red; */
+    /* background: lightgray; */
+    /* background-image: url('image/squid-game.jpg'); */
+    /* background: #e4cbaa; */
+    position: absolute;
+    left: 0;
+    top: -5%;
+    transition: all 0.7s ease-out;
+}
+
+.open{
+    top: 0;
+}
+
+.sidebar-menus{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: row;
+}

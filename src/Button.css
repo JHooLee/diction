@@ -1,0 +1,69 @@
+.Button{
+    all: unset;
+    color: white;
+    background: tomato;
+    cursor: pointer;
+    /* height: 50px;
+    padding-Left: 10px;
+    padding-Right: 10px; */
+    border-Radius: 5px;
+    font-Weight: bold;
+    text-align: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* margin-left: 10px; */
+    margin-right: 10px;
+}
+
+.Button:hover{
+    background-color: orangered;
+    opacity: 0.8;
+}
+
+.large{
+    height: 70px;
+    padding-Left: 15px;
+    padding-Right: 15px;
+    font-size: 1.2rem;
+}
+.medium{
+    height: 50px;
+    padding-Left: 15px;
+    padding-Right: 15px;
+    font-size: 1rem;
+}
+.small{
+    height: 35px;
+    padding-Left: 15px;
+    padding-Right: 15px;
+    font-size: 0.8rem;
+}
+
+.blue{
+    background-color: blue;
+}
+.blue:hover{
+    background-color: skyblue;
+}
+.tomato{
+    background-color: rgb(207, 155, 88);
+}
+.tomato:hover{
+    background-color: lightsalmon;
+}
+.grey{
+    background-color: grey;
+}
+.grey:hover{
+    background-color: lightgrey;
+}
+
+.fullWidth{
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

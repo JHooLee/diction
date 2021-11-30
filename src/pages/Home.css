@@ -1,0 +1,11 @@
+.home-container{
+    width: 70%;
+    /* border-bottom: 2px solid white; */
+    padding-bottom: 3%;
+    margin-left: 24%;
+    /* display: flex; */
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+}
