@@ -36,7 +36,7 @@ class App extends Component {
     }
   }
   componentDidMount() {
-    const BASE_URL = 'https://koreandic-search.herokuapp.com/api/words'
+    const BASE_URL = 'https://dic-jhr.herokuapp.com/api/words'
     fetch(BASE_URL).then(
       res => res.json()
     ).then(
