@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/diction/static/css/main.6dbaec36.chunk.css",
-    "main.js": "/diction/static/js/main.cce7c757.chunk.js",
-    "main.js.map": "/diction/static/js/main.cce7c757.chunk.js.map",
+    "main.css": "/diction/static/css/main.c3172cf5.chunk.css",
+    "main.js": "/diction/static/js/main.b910e589.chunk.js",
+    "main.js.map": "/diction/static/js/main.b910e589.chunk.js.map",
     "runtime-main.js": "/diction/static/js/runtime-main.076b858f.js",
     "runtime-main.js.map": "/diction/static/js/runtime-main.076b858f.js.map",
-    "static/js/2.20bea0b0.chunk.js": "/diction/static/js/2.20bea0b0.chunk.js",
-    "static/js/2.20bea0b0.chunk.js.map": "/diction/static/js/2.20bea0b0.chunk.js.map",
+    "static/js/2.e9b0143d.chunk.js": "/diction/static/js/2.e9b0143d.chunk.js",
+    "static/js/2.e9b0143d.chunk.js.map": "/diction/static/js/2.e9b0143d.chunk.js.map",
     "static/js/3.3c75cfe9.chunk.js": "/diction/static/js/3.3c75cfe9.chunk.js",
     "static/js/3.3c75cfe9.chunk.js.map": "/diction/static/js/3.3c75cfe9.chunk.js.map",
     "index.html": "/diction/index.html",
-    "static/css/main.6dbaec36.chunk.css.map": "/diction/static/css/main.6dbaec36.chunk.css.map",
-    "static/js/2.20bea0b0.chunk.js.LICENSE.txt": "/diction/static/js/2.20bea0b0.chunk.js.LICENSE.txt",
+    "static/css/main.c3172cf5.chunk.css.map": "/diction/static/css/main.c3172cf5.chunk.css.map",
+    "static/js/2.e9b0143d.chunk.js.LICENSE.txt": "/diction/static/js/2.e9b0143d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/diction/static/media/squid-game.1eade51a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.076b858f.js",
-    "static/js/2.20bea0b0.chunk.js",
-    "static/css/main.6dbaec36.chunk.css",
-    "static/js/main.cce7c757.chunk.js"
+    "static/js/2.e9b0143d.chunk.js",
+    "static/css/main.c3172cf5.chunk.css",
+    "static/js/main.b910e589.chunk.js"
   ]
 }
